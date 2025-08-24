@@ -5,6 +5,7 @@
   "description": "Dashboard widget that shows pie charts of code coverage from the last build for selected pipelines.",
   "version": "1.0.0",
   "publisher": "JaderCM",
+  "public": true,
   "content": {
     "details": {
       "path": "DETAILS.md"
