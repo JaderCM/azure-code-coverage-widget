@@ -60,7 +60,7 @@
 
     const search = document.getElementById('search')
     const refresh = document.getElementById('refresh')
-    let selectedIds = data ? JSON.parse(data.customSettings.data).pipelineIds : []
+    let selectedIds = data ? JSON.parse(data.customSettings.data)?.pipelineIds : []
     window.allPipelines = []
 
     search.addEventListener('input', () => render(selectedIds, select, search))
