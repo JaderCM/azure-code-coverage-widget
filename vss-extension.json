@@ -3,7 +3,7 @@
   "id": "code-coverage-widget",
   "name": "Code Coverage Widget",
   "description": "Dashboard widget that shows pie charts of code coverage from the last build for selected pipelines.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "JaderCM",
   "public": true,
   "content": {
