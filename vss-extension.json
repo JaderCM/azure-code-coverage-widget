@@ -30,7 +30,7 @@
   ],
   "links": {
     "repository": {
-      "uri": "https://dev.azure.com/JaderCM/_git/AzureExtensions"
+      "uri": "https://github.com/JaderCM/azure-code-coverage-widget"
     }
   },
   "branding": {
