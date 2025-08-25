@@ -3,11 +3,17 @@
   "id": "code-coverage-widget-dev",
   "name": "Code Coverage Widget Dev",
   "description": "Dashboard widget that shows pie charts of code coverage from the last build for selected pipelines.",
-  "version": "1.0.9",
+  "version": "1.0.13",
   "publisher": "JaderCM",
   "content": {
     "details": {
       "path": "DETAILS.md"
+    },
+    "license": {
+      "path": "LICENSE"
+    },
+    "privacypolicy": {
+      "path": "PRIVACY.md"
     }
   },
   "targets": [
@@ -28,10 +34,25 @@
     }
   ],
   "links": {
+    "privacypolicy": {
+      "uri": "PRIVACY.md"
+    },
     "repository": {
       "uri": "https://github.com/JaderCM/azure-code-coverage-widget"
+    },
+    "support": {
+      "uri": "https://marketplace.visualstudio.com/items?itemName=JaderCM.code-coverage-widget-dev&ssr=false#qna"
     }
   },
+  "repository": {
+    "type": "git",
+    "uri": "https://github.com/JaderCM/azure-code-coverage-widget"
+  },
+  "screenshots": [
+    {
+      "path": "web/img/screenshot_dark.png"
+    }
+  ],
   "branding": {
     "color": "#106ebe",
     "theme": "light"

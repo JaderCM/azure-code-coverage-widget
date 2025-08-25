@@ -16,6 +16,3 @@ Features:
 - Ensure your builds publish code coverage. The widget shows "No coverage data" if the latest build lacks coverage results.
 - Colors: green (>= 80%), yellow (>= 50%), red (< 50%).
 - Works with both YAML Pipelines (via the Pipelines API) and classic Build Definitions (fallback API).
-
-## Screenshots
-![Screenshot](web/img/screenshot_dark.png)
